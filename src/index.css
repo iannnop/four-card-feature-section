@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Poppins', sans-serif;
+    @apply text-neutral-verydarkblue
+  }
+}
+
+@layer components {
+  html, body, #root, .App, main {
+      @apply lg:h-full m-auto bg-neutral-verylightgray flex flex-col justify-center items-center
+  }
+}
