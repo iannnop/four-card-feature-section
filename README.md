@@ -45,6 +45,7 @@ A good trick that I ended up learning is that sometimes it's better to center th
 ### Useful resources
 
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs/)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Author
 Ian Wu
