@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- [Frontend Mentor: Solution URL]()
-- [Vercel: Live Site URL]()
+- [Frontend Mentor: Solution URL](https://www.frontendmentor.io/solutions/four-card-feature-section-with-react-and-tailwind-css-GmEu63ZP8)
+- [Vercel: Live Site URL](https://four-card-feature-section-silk-eta.vercel.app/)
 
 ## My process
 
